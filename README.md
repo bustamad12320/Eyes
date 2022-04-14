@@ -1,6 +1,6 @@
 <h1>Eyes</h1>
 
-<h2>Descrition</h2>
+<h2>Description</h2>
 
 In this project I used css to create a set of eyes using animated shapes, and a bit of javascript to animate the eye to track the movement of the mouse on the screen.
 
